@@ -80,7 +80,7 @@
       <!-- Slide 1 -->
       <div class="carousel-item active">
         <div class="carousel-container">
-          <h2 class="animate__animated animate__fadeInDown">Welcome to <span>Wage Biro Technic</span></h2>
+          <h2 class="animate__animated animate__fadeInDown">Selamat Datang di <span>Wage Biro Technic</span></h2>
           <p class="animate__animated fanimate__adeInUp">Kami adalah mitra strategis anda dalam menghadapi tantangan solusi teknologi dan branding.</p>
           <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
         </div>
@@ -89,8 +89,8 @@
       <!-- Slide 2 -->
       <div class="carousel-item">
         <div class="carousel-container">
-          <h2 class="animate__animated animate__fadeInDown">Our Philosophy</h2>
-          <p class="animate__animated animate__fadeInUp">Kami percaya bahwa inovasi adalah kunci untuk menciptakan perubahan positif, sementara kolaborasi yang kuat memungkinkan ide-ide terbaik untuk muncul.</p>
+          <h2 class="animate__animated animate__fadeInDown">Filosofi Kami</h2>
+          <p class="animate__animated animate__fadeInUp">Kami percaya bahwa inovasi adalah kunci untuk menciptakan perubahan positif, sementara kolaborasi yang kuat memungkinkan ide-ide terbaik untuk muncul. Integritas adalah landasan dari setiap tindakan kami, karena kami bertekad untuk bertindak dengan jujur, adil, dan menghormati nilai-nilai etika dalam setiap interaksi.</p>
           <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
         </div>
       </div>
@@ -98,8 +98,8 @@
       <!-- Slide 3 -->
       <div class="carousel-item">
         <div class="carousel-container">
-          <h2 class="animate__animated animate__fadeInDown">Vision for the Future</h2>
-          <p class="animate__animated animate__fadeInUp">Melihat arah pandang kedepan. Visi Wage Biro Technic untuk menjadi salah satu perusahaan pengembang teknologi dan solusi branding terpercaya.</p>
+          <h2 class="animate__animated animate__fadeInDown">Visi Untuk Masa Depan</h2>
+          <p class="animate__animated animate__fadeInUp">Menjadi salah satu perusahaan pengembang teknologi dan solusi branding terpercaya</p>
           <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
         </div>
       </div>
