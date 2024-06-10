@@ -46,25 +46,7 @@
           <li><a class="nav-link scrollto" href="#about">About</a></li>
           <li><a class="nav-link scrollto" href="#services">Services</a></li>
           <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
-          <!-- <li><a class="nav-link scrollto" href="#pricing">Pricing</a></li> -->
           <li><a class="nav-link scrollto" href="#team">Team</a></li>
-          <!-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
-            <ul>
-              <li><a href="#">Drop Down 1</a></li>
-              <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
-                <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-            </ul>
-          </li> -->
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
@@ -139,7 +121,7 @@
 
         <div class="section-title" data-aos="zoom-out">
           <h2>About</h2>
-          <p>Who we are</p>
+          <p>Tentang Kami</p>
         </div>
 
         <div class="row content" data-aos="fade-up">
@@ -152,8 +134,9 @@
               bisnis Anda.
             </p>
             <ul>
-              <li><i class="ri-check-double-line"></i> Our Philosophyt</li>
-              <p>Kami percaya bahwa inovasi adalah kunci
+              <li><i class="ri-lightbulb-line"></i> Filosofi Kami</li>
+              <p>
+                Kami percaya bahwa inovasi adalah kunci
                 untuk menciptakan perubahan positif,
                 sementara kolaborasi yang kuat
                 memungkinkan ide-ide terbaik untuk
@@ -170,7 +153,7 @@
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
             <ul>
-              <li><i class="ri-check-double-line"></i> Vision for the Future</li>
+              <li><i class="ri-lightbulb-line"></i> Visi Untuk Masa Depan</li>
               <p>
                 Melihat arah pandang kedepan. Visi
                 Wage Biro Technic untuk menjadi salah
@@ -201,19 +184,19 @@
           <li class="nav-item col-4" data-aos="zoom-in">
             <a class="nav-link active show" data-bs-toggle="tab" href="#tab-1">
               <i class="ri-gps-line"></i>
-              <h4 class="d-none d-lg-block">Vision</h4>
+              <h4 class="d-none d-lg-block">Visi</h4>
             </a>
           </li>
           <li class="nav-item col-4" data-aos="zoom-in" data-aos-delay="100">
             <a class="nav-link" data-bs-toggle="tab" href="#tab-2">
               <i class="ri-body-scan-line"></i>
-              <h4 class="d-none d-lg-block">Mission</h4>
+              <h4 class="d-none d-lg-block">Misi</h4>
             </a>
           </li>
           <li class="nav-item col-4" data-aos="zoom-in" data-aos-delay="200">
             <a class="nav-link" data-bs-toggle="tab" href="#tab-3">
               <i class="ri-sun-line"></i>
-              <h4 class="d-none d-lg-block">Value.</h4>
+              <h4 class="d-none d-lg-block">Nilai Kami</h4>
             </a>
           </li>
         </ul>
@@ -222,7 +205,7 @@
           <div class="tab-pane active show" id="tab-1">
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                <h3>Vision.</h3>
+                <h3>Visi.</h3>
                 <p class="fst-italic">
                   “Menjadi salah satu perusahaan pengembang teknologi dan solusi
                   branding yang mampu bersaing secara global dan terpercaya
@@ -237,12 +220,12 @@
           <div class="tab-pane" id="tab-2">
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                <h3>Mission.</h3>
+                <h3>Misi.</h3>
                 <ul>
-                  <li><i class="ri-check-double-line"></i> Mengembangkan produk aplikasi (Dekstop & Web) guna meningkatkat produktifitas pekerjaan.</li>
-                  <li><i class="ri-check-double-line"></i> Mengembangkan ide dan kerjasama dengan sektor industri lainnya.</li>
-                  <li><i class="ri-check-double-line"></i> Mengedepankan profesionalitas, kemampuan diri dan kerjasama tim yang baik.</li>
-                  <li><i class="ri-check-double-line"></i> Memberikan solusi IT terbaik untuk semua kalangan guna mengatasi berbagai masalah.</li>
+                  <li><i class="ri-checkbox-circle-line"></i> Mengembangkan produk aplikasi (Dekstop & Web) guna meningkatkan produktifitas pekerjaan.</li>
+                  <li><i class="ri-checkbox-circle-line"></i> Mengembangkan ide dan kerjasama dengan sektor industri lainnya.</li>
+                  <li><i class="ri-checkbox-circle-line"></i> Mengedepankan profesionalitas, kemampuan diri dan kerjasama tim yang baik.</li>
+                  <li><i class="ri-checkbox-circle-line"></i> Memberikan solusi IT terbaik untuk semua kalangan guna mengatasi berbagai masalah.</li>
                 </ul>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
@@ -255,21 +238,21 @@
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
                 <h3>Value</h3>
                 <ul>
-                  <li><i class="ri-check-double-line"></i> Integritas</li>
+                  <li><i class="ri-checkbox-circle-line"></i> Integritas</li>
                   <p>
                     Kejujuran dan etika adalah hal utama
                     dalam semua aspek bisnis kami,
                     menjaga kepercayaan klien sebagai
                     hal yang paling berharga.
                   </p>
-                  <li><i class="ri-check-double-line"></i> Kualitas</li>
+                  <li><i class="ri-checkbox-circle-line"></i> Kualitas</li>
                   <p>
                     Komitmen kami adalah untuk selalu
                     memberikan yang terbaik dalam
                     layanan dan produk kami, sesuai
                     dengan standar tertinggi.
                   </p>
-                  <li><i class="ri-check-double-line"></i> Pelayanan</li>
+                  <li><i class="ri-checkbox-circle-line"></i> Pelayanan</li>
                   <p>
                     Kepuasan klien adalah prioritas utama,
                     kami berusaha untuk melebihi harapan
@@ -280,7 +263,7 @@
                     kecepatan dan kesesuaian jadwal guna
                     ketepatan deliver layanan atau produk
                   </p>
-                  <li><i class="ri-check-double-line"></i> Tim Hebat</li>
+                  <li><i class="ri-checkbox-circle-line"></i> Tim Hebat</li>
                   <p>
                     Dikerjakan oleh tim yang profesional
                     dan memiliki dedikasi tinggi dalam
@@ -300,31 +283,13 @@
       </div>
     </section><!-- End Features Section -->
 
-    <!-- ======= Cta Section ======= -->
-    <!-- <section id="cta" class="cta">
-      <div class="container">
-
-        <div class="row" data-aos="zoom-out">
-          <div class="col-lg-9 text-center text-lg-start">
-            <h3>Call To Action</h3>
-            <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-          </div>
-          <div class="col-lg-3 cta-btn-container text-center">
-            <a class="cta-btn align-middle" href="#">Call To Action</a>
-          </div>
-        </div>
-
-      </div>
-    </section> -->
-    <!-- End Cta Section -->
-
     <!-- ======= Services Section ======= -->
     <section id="services" class="services">
       <div class="container">
 
         <div class="section-title" data-aos="zoom-out">
           <h2>Services</h2>
-          <p>What we do offer</p>
+          <p>Layanan Kami</p>
         </div>
 
         <div class="row">
@@ -367,7 +332,7 @@
                 <li><i class="ri-circle"></i> Ticketing System</li>
                 <li><i class="ri-circle"></i> Finance & Accounting System</li>
                 <li><i class="ri-circle"></i> Warehouse Management</li>
-                <li><i class="ri-circle"></i> Etc.</li>
+                <li><i class="ri-circle"></i> Dll.</li>
               </ul>
               </p>
             </div>
@@ -394,6 +359,36 @@
                 <li><i class="ri-circle"></i> Company Video Profile
                 <li><i class="ri-circle"></i> Creative Content Social Media
                 <li><i class="ri-circle"></i> Web/Apps Builder & Development
+              </ul>
+              </p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 mt-5">
+            <div class="icon-box" data-aos="zoom-in-left" data-aos-delay="400">
+              <div class="icon"><i class="bi bi-houses" style="color: #d6ff22;"></i></div>
+              <h4 class="title"><a href="">Home Maintenance</a></h4>
+              <p class="description">
+              <ul style="margin-left: 10px;">
+                <li><i class="ri-circle"></i> Perawatan Berkala Rumah & Villa
+                <li><i class="ri-circle"></i> Maintenance Kelistrikan Rumah & Villa
+                <li><i class="ri-circle"></i> Maintenance Saluran Air Rumah & Villa
+                <li><i class="ri-circle"></i> Repainting Bangunan Rumah & Villa
+                <li><i class="ri-circle"></i> Dll.
+              </ul>
+              </p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 mt-5">
+            <div class="icon-box" data-aos="zoom-in-left" data-aos-delay="400">
+              <div class="icon"><i class="bi bi-buildings-fill" style="color: #d6ff22;"></i></div>
+              <h4 class="title"><a href="">Interior Design</a></h4>
+              <p class="description">
+              <ul style="margin-left: 10px;">
+                <li><i class="ri-circle"></i> Desain & Instalasi Interior Sesuai Ruangan
+                <li><i class="ri-circle"></i> Desain & Instalasi Both Pameran
+                <li><i class="ri-circle"></i> Dll.
               </ul>
               </p>
             </div>
