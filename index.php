@@ -527,96 +527,96 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/client/client-1.png" class="img-fluid" alt="">
-                <h3>Sheldon J. Plankton</h3>
-                <h4>Ceo &amp; Founder</h4>
+                <!-- <h3>Sheldon J. Plankton</h3>
+                <h4>Ceo &amp; Founder</h4> -->
               </div>
             </div><!-- End testimonial item -->
 
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/client/client-2.png" class="img-fluid" alt="">
-                <h3>Sandy Cheeks</h3>
-                <h4>Designer</h4>
+                <!-- <h3>Sandy Cheeks</h3>
+                <h4>Designer</h4> -->
               </div>
             </div><!-- End testimonial item -->
 
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/client/client-3.png" class="img-fluid" alt="">
-                <h3>Larry</h3>
-                <h4>Store Owner</h4>
+                <!-- <h3>Larry</h3>
+                <h4>Store Owner</h4> -->
               </div>
             </div><!-- End testimonial item -->
 
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/client/client-4.png" class="img-fluid" alt="">
-                <h3>Mermaid Man</h3>
-                <h4>Freelancer</h4>
+                <!-- <h3>Mermaid Man</h3>
+                <h4>Freelancer</h4> -->
               </div>
             </div><!-- End testimonial item -->
 
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/client/client-5.png" class="img-fluid" alt="">
-                <h3>Mrs. Poppy Puff</h3>
-                <h4>Entrepreneur</h4>
+                <!-- <h3>Mrs. Poppy Puff</h3>
+                <h4>Entrepreneur</h4> -->
               </div>
             </div><!-- End testimonial item -->
 
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/client/client-6.png" class="img-fluid" alt="">
-                <h3>Mrs. Poppy Puff</h3>
-                <h4>Entrepreneur</h4>
+                <!-- <h3>Mrs. Poppy Puff</h3>
+                <h4>Entrepreneur</h4> -->
               </div>
             </div><!-- End testimonial item -->
 
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/client/client-7.png" class="img-fluid" alt="">
-                <h3>Mrs. Poppy Puff</h3>
-                <h4>Entrepreneur</h4>
+                <!-- <h3>Mrs. Poppy Puff</h3>
+                <h4>Entrepreneur</h4> -->
               </div>
             </div><!-- End testimonial item -->
 
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/client/client-8.png" class="img-fluid" alt="">
-                <h3>Mrs. Poppy Puff</h3>
-                <h4>Entrepreneur</h4>
+                <!-- <h3>Mrs. Poppy Puff</h3>
+                <h4>Entrepreneur</h4> -->
               </div>
             </div><!-- End testimonial item -->
 
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/client/client-9.png" class="img-fluid" alt="">
-                <h3>Mrs. Poppy Puff</h3>
-                <h4>Entrepreneur</h4>
+                <!-- <h3>Mrs. Poppy Puff</h3>
+                <h4>Entrepreneur</h4> -->
               </div>
             </div><!-- End testimonial item -->
 
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/client/client-10.png" class="img-fluid" alt="">
-                <h3>Mrs. Poppy Puff</h3>
-                <h4>Entrepreneur</h4>
+                <!-- <h3>Mrs. Poppy Puff</h3>
+                <h4>Entrepreneur</h4> -->
               </div>
             </div><!-- End testimonial item -->
 
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/client/client-11.png" class="img-fluid" alt="">
-                <h3>Mrs. Poppy Puff</h3>
-                <h4>Entrepreneur</h4>
+                <!-- <h3>Mrs. Poppy Puff</h3>
+                <h4>Entrepreneur</h4> -->
               </div>
             </div><!-- End testimonial item -->
 
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/client/client-12.png" class="img-fluid" alt="">
-                <h3>Mrs. Poppy Puff</h3>
-                <h4>Entrepreneur</h4>
+                <!-- <h3>Mrs. Poppy Puff</h3>
+                <h4>Entrepreneur</h4> -->
               </div>
             </div><!-- End testimonial item -->
 
@@ -807,7 +807,7 @@
 
         <div class="section-title" data-aos="zoom-out">
           <h2>Contact</h2>
-          <p>Contact Us</p>
+          <p>Kontak Kami</p>
         </div>
 
         <div class="row mt-5">
