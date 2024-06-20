@@ -95,21 +95,35 @@
       <div class="container">
 
         <div class="row gy-4">
+          <?php
+          if (isset($_GET["param"])) {
+            $param = $_GET["param"];
 
+            if ($param == "h2hceisa4.0") {
+              $img1 = "portfolio-1.1.png";
+              $img2 = "portfolio-1.2.png";
+              $img3 = "portfolio-1.3.png";
+              $category = "Web Application";
+              $client = " - ";
+              $date = "2024";
+            }
+          }
+
+          ?>
           <div class="col-lg-8">
             <div class="portfolio-details-slider swiper">
               <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-details-1.png" alt="">
+                  <img src="assets/img/portfolio/<?= $img1 ?>" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-details-2.png" alt="">
+                  <img src="assets/img/portfolio/<?= $img2 ?>" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-details-3.png" alt="">
+                  <img src="assets/img/portfolio/<?= $img3 ?>" alt="">
                 </div>
 
               </div>
@@ -121,14 +135,13 @@
             <div class="portfolio-info">
               <h3>Project information</h3>
               <ul>
-                <li><strong>Category</strong>: Web design</li>
-                <li><strong>Client</strong>: Krusty Krab</li>
-                <li><strong>Project date</strong>: 01 January, 2025</li>
-                <li><strong>Project URL</strong>: <a href="#">www.example.com</a></li>
+                <li><strong>Category </strong>: <?= $category ?></li>
+                <li><strong>Client </strong>: <?= $client ?> </li>
+                <li><strong>Project date </strong>: <?= $date ?></li>
+                <li><strong>Project URL </strong>: <a href="#">www.example.com</a></li>
               </ul>
             </div>
             <div class="portfolio-description">
-              <h2>This is an example of portfolio detail</h2>
               <p>
                 Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.
               </p>
